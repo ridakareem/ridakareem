@@ -1,27 +1,66 @@
-<p align="center">
-<svg width="160" height="160" viewBox="0 0 200 200">
-  <circle cx="100" cy="100" r="80" fill="#ff1493"/>
-  <circle cx="70" cy="70" r="10" fill="#ff69b4"/>
-  <circle cx="120" cy="60" r="8" fill="#ffc0cb"/>
-  <circle cx="140" cy="110" r="12" fill="#ff69b4"/>
-  <circle cx="80" cy="130" r="9" fill="#ffc0cb"/>
-  <line x1="100" y1="0" x2="100" y2="20" stroke="#ff1493" stroke-width="4"/>
-</svg>
-</p>
+<div align="center">
 
-## Heyy, I'm Rida
+<!-- Replace the line below with your mirrorball GIF once exported -->
+<!-- Recommended: record the widget as a GIF using ScreenToGif or Gifski, save as mirrorball.gif -->
 
-<!--
-**ridakareem/ridakareem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+    ✦  ·  ✦  ·   ✦
+  ·   ╭──────────╮   ·
+✦   ╭╯ ▓▒▓▒▓▒▓▒ ╰╮   ✦
+  ╭╯ ▒▓▒ ▓▒▓ ▒▓▒ ╰╮
+  │ ▓▒▓▒   ·   ▒▓▒ │
+  │ ▒▓▒ ·     · ▓▒ │
+  ╰╮ ▓▒▓▒▓▒▓▒▓▒ ╭╯
+✦   ╰╮ ▒▓▒▓▒▓▒ ╭╯   ✦
+  ·   ╰──────────╯   ·
+    ·  ✦  ·  ✦  ·
+```
 
-Here are some ideas to get you started:
+# Hi, I'm Rida Kareem 🌸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Writer ✦ Developer ✦ Creator*
+
+</div>
+
+---
+
+## 🌸 About Me
+
+- 🎓 Undergraduate Computer Science student at UIC
+- 💳 Full-stack developer with a strong interest in fintech applications
+- 🔐 Exploring cybersecurity and building foundations in AI & machine learning
+- ✍️ I enjoy writing, reading books, and creating personal digital projects that blend creativity with technology
+
+---
+
+## 🌸 Tech Stack
+
+**⚙ Backend**
+
+![Python](https://img.shields.io/badge/Python-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=python)
+![C](https://img.shields.io/badge/C-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=c)
+![C++](https://img.shields.io/badge/C++-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=cplusplus)
+![PHP](https://img.shields.io/badge/PHP-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=mysql)
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=css3)
+
+---
+
+## 🌸 Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-FFB6D9?style=for-the-badge&logo=gmail&logoColor=0d0a0e)](mailto:ridakareem01@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6D9?style=for-the-badge&logo=linkedin&logoColor=0d0a0e)](https://www.linkedin.com/in/rida-kareem/)
+
+---
+
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ridakareem.ridakareem&color=FFB6D9)
+
+</div>
