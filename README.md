@@ -3,22 +3,9 @@
 <!-- Replace the line below with your mirrorball GIF once exported -->
 <!-- Recommended: record the widget as a GIF using ScreenToGif or Gifski, save as mirrorball.gif -->
 
-```
-    ✦  ·  ✦  ·   ✦
-  ·   ╭──────────╮   ·
-✦   ╭╯ ▓▒▓▒▓▒▓▒ ╰╮   ✦
-  ╭╯ ▒▓▒ ▓▒▓ ▒▓▒ ╰╮
-  │ ▓▒▓▒   ·   ▒▓▒ │
-  │ ▒▓▒ ·     · ▓▒ │
-  ╰╮ ▓▒▓▒▓▒▓▒▓▒ ╭╯
-✦   ╰╮ ▒▓▒▓▒▓▒ ╭╯   ✦
-  ·   ╰──────────╯   ·
-    ·  ✦  ·  ✦  ·
-```
-
 # Hi, I'm Rida Kareem 🌸
 
-*Writer ✦ Developer ✦ Creator*
+*✦ Developer ✦ Creator*
 
 </div>
 
@@ -26,10 +13,10 @@
 
 ## 🌸 About Me
 
-- 🎓 Undergraduate Computer Science student at UIC
-- 💳 Full-stack developer with a strong interest in fintech applications
+- 🎓 Computer Science Engineering student at NSSCE
+- 💳 Full-stack developer
 - 🔐 Exploring cybersecurity and building foundations in AI & machine learning
-- ✍️ I enjoy writing, reading books, and creating personal digital projects that blend creativity with technology
+- ✍️ I enjoy reading books, baking, and creating personal digital projects that blend creativity with technology
 
 ---
 
