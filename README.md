@@ -5,7 +5,7 @@
 
 # Hi, I'm Rida Kareem 🌸
 
-*✦ Developer ✦ Creator*
+*Always exploring new things ✦*
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ## 🌸 About Me
 
-- 🎓 Computer Science Engineering student at NSSCE
-- 💳 Full-stack developer
-- 🔐 Exploring cybersecurity and building foundations in AI & machine learning
-- ✍️ I enjoy reading books, baking, and creating personal digital projects that blend creativity with technology
+- Computer Science Engineering student at NSSCE
+- Full-stack developer
+- Exploring cybersecurity and building foundations in AI & machine learning
+- I enjoy reading books, baking, and creating personal digital projects that blend creativity with technology
 
 ---
 
