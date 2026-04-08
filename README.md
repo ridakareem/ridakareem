@@ -3,7 +3,7 @@
 <!-- Replace the line below with your mirrorball GIF once exported -->
 <!-- Recommended: record the widget as a GIF using ScreenToGif or Gifski, save as mirrorball.gif -->
 
-# Hi, I'm Rida Kareem 🌸
+# Hi, I'm Rida
 
 *Always exploring new things ✦*
 
@@ -27,7 +27,6 @@
 ![Python](https://img.shields.io/badge/Python-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=python)
 ![C](https://img.shields.io/badge/C-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=c)
 ![C++](https://img.shields.io/badge/C++-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=cplusplus)
-![PHP](https://img.shields.io/badge/PHP-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-FFB6D9?style=flat-square&logoColor=0d0a0e&logo=mysql)
 
